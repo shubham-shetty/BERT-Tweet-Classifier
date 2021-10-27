@@ -5,7 +5,7 @@ import time
 import configparser
 
 # Folder Locations
-OUTPUT_DIR = "../data"
+OUTPUT_DIR = "data"
 
 # Load Configs
 config = configparser.ConfigParser()
