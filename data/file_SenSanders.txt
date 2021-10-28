@@ -1,0 +1,32 @@
+Datetime,Tweet Id,Text
+2021-10-27 17:20:22+00:00,1453411262461845517,Three words: tax the wealthy.
+2021-10-26 22:27:43+00:00,1453126220623843330,I’m standing in solidarity today with the brave McDonald’s workers on strike to demand the company finally address the epidemic of sexual harassment. https://t.co/YuWfqJvxOD
+2021-10-26 20:03:33+00:00,1453089941001494540,"In our country today, we pay more per capita for prescription drugs than any other major country on Earth. 
+
+Enough. It’s time to put an end to Big Pharma controlling Congress. It’s time for Congress to regulate Big Pharma."
+2021-10-26 17:50:02+00:00,1453056339228381189,"It's time to tell the pharmaceutical industry, loudly and clearly, it doesn’t own Congress. https://t.co/hHHdzGNdql"
+2021-10-26 16:15:03+00:00,1453032438201032710,"Here’s who wants Medicare to negotiate lower drug prices:
+
+91% of Democrats
+85% of Independents
+76% of Republicans 
+84% of seniors 
+ 
+It’s time to listen to the American people. Congress must finally have the courage to stand up to the greed of Big Pharma."
+2021-10-25 16:14:31+00:00,1452669913366245381,"I want to congratulate the pharmaceutical industry. While 1 out of 4 Americans can't afford to fill their prescriptions, and over 25% of diabetics ration insulin, the industry made over $50 billion in profits last year and the top 10 CEOs made $500 million. Greed. Greed. Greed."
+2021-10-25 16:00:08+00:00,1452666293484724226,"Income and wealth inequality is a profound moral issue this country must address. The richest 2 Americans cannot continue owning more wealth than the bottom 40% of our country, while millions of working Americans cannot afford the basic necessities to live."
+2021-10-24 16:06:53+00:00,1452305606975557644,"Let me be very, very clear – it’s time to tax the rich."
+2021-10-24 00:51:25+00:00,1452075222488829957,"The expansion of Medicare to cover dental, hearing and vision is one of the most popular and important provisions in the entire reconciliation bill. It’s what the American people want. It’s not coming out."
+2021-10-23 17:45:20+00:00,1451967992259129351,Anybody who believes we can create the meaningful change this country needs without standing up to the greed and corruption of the ruling class is sorely mistaken.
+2021-10-22 00:32:15+00:00,1451345621886160899,"The ruling class of this country is nervous. They know more and more people are realizing they have the right to live in peace, the right to live with dignity. And that is a very real threat to their greed."
+2021-10-21 22:10:00+00:00,1451309821899128862,"The days of billionaires running Washington is going to end. We are finally going to make sure government stands up for ordinary Americans, not the wealthy and powerful."
+2021-10-21 20:09:12+00:00,1451279423437684739,"I’ve been criticized for being an ""alarmist"" on climate change. That’s right. I am alarmed. Climate change is a global emergency and a major national security threat.
+
+We must bring the world together and take on the existential threat of climate change NOW. This can't wait. https://t.co/lhlVb8xt5d"
+2021-10-21 18:45:00+00:00,1451258232454975490,"In the richest country in the history of the world, no one should die because they can’t afford the medicine they need. NO ONE."
+2021-10-21 16:40:48+00:00,1451226976098955266,"Let me ask you a question. Does it make sense to you that in America today, 2 billionaires own more wealth than the bottom 40% and the top 1% owns more wealth than the bottom 92%?"
+2021-10-20 21:01:53+00:00,1450930291892228106,"For the THIRD time this year, the GOP blocked common sense voting rights legislation in the Senate. After failing to win the last election, they are doing all they can to steal the next one. What a disgrace. We are going to protect and expand voting rights in this country."
+2021-10-20 20:10:13+00:00,1450917291558940677,"With unprecedented fires, drought, heat waves, floods and extreme weather disturbances, what's radical is not transforming our energy systems away from fossil fuel and into energy efficiency and sustainable energy. What's radical is doing nothing as our planet gets destroyed."
+2021-10-20 18:09:07+00:00,1450886815129473030,"Look, I’m a bit old-fashioned. I happen to believe we should do what the people are demanding, and what the people are demanding is that we finally take on the ruling class of this country."
+2021-10-19 21:46:24+00:00,1450579108153397249,"You know what? Maybe, just maybe, the rich should pay their fair share of taxes."
+2021-10-19 19:35:55+00:00,1450546269173190659,I am more than a little tired of the United States being the only major country on Earth to not guarantee paid family and medical leave. We are going to end that international embarrassment.

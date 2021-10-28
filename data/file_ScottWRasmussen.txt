@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-27 15:25:53+00:00,1453382449883402252,57% Say #Inflation is a Tax on the Poor; 23% Disagree... 59% Believe Increased Government Spending Leads to More Inflation https://t.co/mcKhYpLOkN
+2021-10-25 21:39:34+00:00,1452751716106088452,54% Believe Warnings About Gov’t Shutdowns Are Scare Tactics Rather Than Legitimate Concern https://t.co/vFofQW2FwV
+2021-10-25 21:24:06+00:00,1452747821682200579,65% Believe Federal Government is Actively Working to Get More Power &amp; Control Over lives of Everyday Americans https://t.co/6rUv4TpxnU
+2021-10-25 21:13:29+00:00,1452745151357624322,Do Journalists Need a College Degree? 56% Think It Would Be Good to Hire High School Graduates and Train Them https://t.co/skrStE8ExC
+2021-10-24 19:04:36+00:00,1452350330314924034,"On Important National Decisions, 64% Trust Everyday Americans More Than Government Officials; 22% Take the opposite view https://t.co/JNJf3jMhvG"
+2021-10-23 13:27:36+00:00,1451903131168788482,73% See Federal Government As Special Interest Group That Looks Out Primarily For Its Own Interests... 75% of Republicans hold that view along with 74% of Democrats and 71% of Independents. https://t.co/T3v2HORbfG
+2021-10-23 12:07:58+00:00,1451883094127042564,"California’s strict regulations have led most industry operators to close shop, flee the state or sell in the state’s illegal market https://t.co/Y0ycJSPvBO via @politico"
+2021-10-22 20:18:59+00:00,1451644272248250368,62% Favor Banning Use of Federal Funds for Research Conducted By Chinese Government or Chinese Communist Party; 24% are opposed. https://t.co/yM4ECorTHF
+2021-10-22 19:47:40+00:00,1451636390853332995,"70% Believe America Founded on Noble Ideals of Freedom, Equality, and Self-Governance. 17% say it was founded upon the ideas of racial oppression and white supremacy. https://t.co/2X1uNusLje"
+2021-10-22 18:14:54+00:00,1451613045474709506,55% See Biden as Politically Liberal; 22% Say Moderate; 10% Conservative https://t.co/gxi9sRAupw
+2021-10-22 18:03:57+00:00,1451610292400558089,70% Believe Anybody Willing to Work Can Find a Job https://t.co/njsdwE9pPN
+2021-10-22 17:52:52+00:00,1451607501460410398,State Dept: We know of 363 American citizens still abandoned in Afghanistan https://t.co/55hiXfZiNS
+2021-10-22 12:26:38+00:00,1451525400803352609,"77% Say It’s Possible To Love Someone Without Approving of Their Lifestyle... Also, 60% believe it is possible to support the policies advocated by Donald Trump without supporting Donald Trump.  https://t.co/DDa0mpXf7s"
+2021-10-22 10:58:52+00:00,1451503313023799307,https://t.co/V5L4cpN1tY
+2021-10-21 20:41:44+00:00,1451287610492694535,"“How about zero?” Manchin, Sanders get heated behind closed doors https://t.co/jscgLZ1tyX"
+2021-10-21 19:32:50+00:00,1451270272754061312,60% Oppose Payment to Illegal Immigrants in Build Back Better Plan; 28% Support https://t.co/MwWGSA1Bu2
+2021-10-21 14:01:50+00:00,1451186970420416520,73% believe photo ID should be required before casting a ballot. 74% believe all mail-in ballots should be received by election day. Every Democrat in the House &amp; Senate has now voted to ban both of those provisions. This will help GOP in #Election2022   https://t.co/s5VhIXQaZK
+2021-10-21 13:39:12+00:00,1451181277877506051,"Why are people worried about giving IRS more information? By a 72% to 14% margin, voters think some agents or political leaders would use additional information to harm political opponents.  https://t.co/GDcVsXIPfW"
+2021-10-21 13:06:46+00:00,1451173114428207107,"@beardedcrank Keep in mind, these are Registered Voters, not LV. GOP clearly has intensity advantage. Plus, McAuliffe's debate gaffe about education is his biggest challenge."
+2021-10-21 12:54:16+00:00,1451169969979396101,"Biden’s Approval Stabilizes: 47% Approve, 48% Disapprove... 25% Strongly Approve, 35% Strongly Disapprove... https://t.co/JpwG2QnwhJ"

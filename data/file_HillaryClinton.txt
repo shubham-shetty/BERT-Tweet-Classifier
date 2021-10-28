@@ -1,0 +1,55 @@
+Datetime,Tweet Id,Text
+2021-10-27 18:59:11+00:00,1453436128732848136,"Gladys Boggs has spent nearly half a century in public service, and I am one of many Secretaries of State who owe her a debt of gratitude. 
+
+Thank you, Gladys! https://t.co/4M5m2zTTk4"
+2021-10-27 17:52:55+00:00,1453419454155608068,"The U.S. is one of six countries currently with no national paid leave. 
+
+We really have to do better here.
+
+https://t.co/vK1GZ9SFqm"
+2021-10-27 16:52:56+00:00,1453404356628389888,"It says not only to the world of academia that women’s history is worthy of study, but that women’s lives and thoughts have always mattered; that history includes not just the notable but also the marginalized and forgotten; and that no one can write us out of history again."
+2021-10-27 16:52:55+00:00,1453404353704890368,"While the new Hillary Rodham Clinton Chair in Women's History at @UniofOxford is the first chair in women’s history in the world, I hope it will not be the last. https://t.co/JUW0Ahg3bL"
+2021-10-27 16:51:48+00:00,1453404072799842312,"@RAIOxford @aipsmith @DrAliceKelly @UniofOxford @OxHumanities @OxfordNA @TORCHOxford @MansfieldOxford @OxfordGradStudy @UnivOxford @OxfordHistory Put me in, coach :)"
+2021-10-26 16:25:16+00:00,1453035006276907015,"How can we make sure fewer women are ""hidden from history""? 
+
+Why is it so important to share the stories of gutsy women who have shaped our world? 
+
+Tune in now for talks kicking off @UniOfOxford's new Hillary Rodham Clinton Chair in Women's History: https://t.co/1PcYJcSCck"
+2021-10-26 14:38:19+00:00,1453008091323244544,Join us today at 12:30pm ET/5:30pm GMT! https://t.co/J4rNJJwQzz
+2021-10-26 14:11:15+00:00,1453001281933561861,"Facebook has privileged lies, damaged our democracy, and worsened divisions in our society... knowingly, for profit. https://t.co/7DvJxKehrn"
+2021-10-25 17:45:20+00:00,1452692767478632453,"Join me tonight at 8pm ET to get inspired by the second annual #NowThisNEXT: Yes We Did! event with @vitalvoices, @nowthisnews and @owntv. 
+
+Women are changing the world, and it's time to celebrate. 
+
+RSVP here: https://t.co/AxORB9PskI"
+2021-10-25 16:00:01+00:00,1452666267161214984,"""Women often tell women’s stories,"" says Prof. Brenda E Stevenson, the inaugural Hillary Rodham Clinton Chair in Women's History. 
+
+Tune in now as she tells the story of a woman who helped create an essential archive of the histories of enslaved people: https://t.co/x6YjArUMt9"
+2021-10-25 13:05:17+00:00,1452622293117530116,"History informs the present and shapes the future. Yet the story, so far, has focused on men. @UniofOxford aims to change that, with a new Hillary Rodham Clinton Chair in Women's History leading the way. 
+
+Join us over the next two days to kick things off: https://t.co/zC2Mxs90FV https://t.co/MPRGif6iX6"
+2021-10-23 14:11:37+00:00,1451914209403580423,"A perk of book tours: 
+
+Sometimes, leaving a studio after an interview, you run into Duran Duran. 
+
+Thanks for having us, @bbctheoneshow, and lovely to meet you, Simon and John! https://t.co/kZJIxg3NiZ"
+2021-10-22 16:57:00+00:00,1451593441859837965,"Today’s release of the first-ever U.S. Strategy on Gender Equity and Equality makes clear: advancing gender equity and equality is fundamental to every individual’s safety, well-being, and ability to exercise basic rights. Read the historic document here: https://t.co/MxMQeoMo0W"
+2021-10-21 13:15:06+00:00,1451175212624629767,"“No family should have to choose between earning a living and having the freedom to take care of their child.” 
+
+Meghan, The Duchess of Sussex makes a compelling case for paid leave in a letter to Congress. https://t.co/teW3y2uHFc"
+2021-10-20 22:31:54+00:00,1450952947228188673,We’re No. 1! So honored and delighted. Thanks for reading. https://t.co/8fnJquIGrQ
+2021-10-20 18:29:06+00:00,1450891842904629267,"If you haven't joined us yet on the State of Terror virtual tour, tonight is your last chance to correct that! 
+
+It's been a wonderful week of conversations and meeting readers, and I hope you'll come along for one last stop. https://t.co/wFFmAIb2qK https://t.co/JAj2aorTCQ"
+2021-10-20 16:42:31+00:00,1450865022750633984,"Nineteen states have passed new laws suppressing people's right to vote. Hundreds more bills are pending throughout the country. 
+
+But there's still time to protect our rights. 
+
+Join me &amp; @NAACP_LDF in urging your U.S. senators to #RestoreTheVRA: Call them now at (202) 224-3121."
+2021-10-19 16:46:14+00:00,1450503569849954310,"Here's a sneak peek at the great Joan Allen reading the audio edition of my new book with Louise Penny, ""State of Terror."" What a thrill to hear one of my favorite actresses read our words. https://t.co/wFFmAIb2qK https://t.co/8eW5abqWY4"
+2021-10-19 14:16:33+00:00,1450465898125565961,"Can't wait to talk thrillers and politics tonight with Stacey, who knows a thing or two about both! Join us. https://t.co/zXbL3kQD8M https://t.co/E2eMeT8C8V"
+2021-10-18 19:09:33+00:00,1450177248275861505,"This week is your last chance to join Louise Penny and me on the virtual tour for our new thriller, ""State Of Terror.” 
+
+We're going to finish out with some of our favorite booksellers, including the folks from my hometown shop in Chappaqua.
+
+Come on down! https://t.co/wFFmAIb2qK https://t.co/uZU7L96H93"

@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-28 02:05:40+00:00,1453543459252580363,@lilmsbinch @jscros https://t.co/aKox1E568U
+2021-10-28 01:37:03+00:00,1453536256613359619,Vulnerable House Democrats are worried about what is being left out of Biden’s economic package @MariannaReports https://t.co/zEKFduKUJI
+2021-10-27 22:41:33+00:00,1453492091150032896,@carolynryan @BostonGlobe I remember that night so well.
+2021-10-27 21:54:27+00:00,1453480238797701121,Yes! https://t.co/NkX0wfaCmG
+2021-10-27 21:30:44+00:00,1453474269250396163,"John Audubon is one of history’s most famous naturalists. He was also an enslaver, Indian grave robber and supremacist who mocked abolitionists. This group just voted to drop his name, perhaps the first of many. @bydarrylfears https://t.co/yScXTqMjYK"
+2021-10-27 20:46:28+00:00,1453463129942159362,“Big businesses that already have all the power in the relationship regularly stack the deck to avoid the only thing out there that could hold them accountable — the United States justice system.” https://t.co/15VhVpQTWw
+2021-10-27 20:34:41+00:00,1453460164493733889,Terrific piece by @ThompsonJamieL: A ‘shoot to incapacitate’ policy puts Georgia police chief and town in the spotlight https://t.co/soQX419zXl
+2021-10-27 19:51:24+00:00,1453449268430311433,"Rafael was truly the kindest, most welcoming colleague. I would often see him during early shifts in the newsroom, and no matter how busy he was, he would always stop to chat. He loved to talk about his grandson and family. Such a devastating loss. https://t.co/9AOvWsjFce"
+2021-10-27 19:35:59+00:00,1453445388615274503,@whaleandpetunia https://t.co/JAEXnqW4rg
+2021-10-27 19:34:10+00:00,1453444931788414976,@whaleandpetunia Omg YES. Long live #wapopets!
+2021-10-27 18:33:38+00:00,1453429700253134849,@meredithshiner A girl can dream! 😂
+2021-10-27 18:30:42+00:00,1453428962286346247,Had a dream last night that Twitter was gone. Just gone. And I sent a Slack message to the newsroom to make sure people were aware.
+2021-10-27 18:17:17+00:00,1453425585514942467,Florida judge rules Trump can’t skirt Twitter’s terms just because he was president in latest legal setback https://t.co/oX9OvWyPDi via @TimBella
+2021-10-27 17:24:15+00:00,1453412240644661250,"@erinoverbey This means so much coming from you, Erin. Thank you."
+2021-10-27 17:15:42+00:00,1453410087175798785,State Department issues first passport with ‘X’ gender marker https://t.co/uH3uU7IthY via @Eugene_Scott
+2021-10-27 16:17:23+00:00,1453395413256445955,Mandatory arbitration cases have soared during the pandemic https://t.co/15VhVpQTWw via @abhabhattarai
+2021-10-27 16:16:48+00:00,1453395265319145476,"Nicholas Kristof, former New York Times columnist, announces run for Oregon governor Via @amybwang https://t.co/CtRwRJ7DZq"
+2021-10-27 16:16:11+00:00,1453395110528360457,Meghan McCain says Sen. Lindsey Graham ‘is not and hasn’t been’ a member of her family ‘for a very long time'. With @JaxAlemany: https://t.co/lyF93qdSo4
+2021-10-27 14:43:10+00:00,1453371699429187586,"New: HHS Sec. Xavier Becerra outlines how the government will try to tackle the drug overdose death crisis, which is now headed toward 100,000 annually. @LennyMBernstein: https://t.co/pTBPqyGIBN"
+2021-10-27 14:23:42+00:00,1453366802109456384,"Via @seungminkim: Biden is heading abroad with just a handful of ambassadors approved, including for most G20 countries, and irritation with Ted Cruz is reaching new levels over his blockade https://t.co/L0HxjHBsSo"

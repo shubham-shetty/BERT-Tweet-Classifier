@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-27 22:03:16+00:00,1453482454761811969,Will Trump Campaign In Virginia? https://t.co/JPbY1EBMYS via @politicalwire
+2021-10-27 21:56:49+00:00,1453480831675092993,House Democrats to Meet Tomorrow Morning https://t.co/4VAxtLlbQ0 via @politicalwire
+2021-10-27 21:50:51+00:00,1453479332907728896,Perdue Mulls Challenging Brian Kemp In Primary https://t.co/qdV4h8zmhb via @politicalwire
+2021-10-27 21:02:16+00:00,1453467103684661261,Jayapal Rebuffs Effort to Decouple Bills https://t.co/gEGCd969jj via @politicalwire
+2021-10-27 20:47:32+00:00,1453463398272880641,Paid Family Leave Dropped from Reconciliation Bill https://t.co/qWqFvmVyG3 via @politicalwire
+2021-10-27 19:58:12+00:00,1453450981988093960,Top Democrat Spikes Billionaire Tax https://t.co/CP0fg6nxcg via @politicalwire
+2021-10-27 19:12:56+00:00,1453439587926355980,Facebook Tells Employees to Preserve Records https://t.co/lBj6QC8HKU via @politicalwire
+2021-10-27 18:59:57+00:00,1453436321456918533,"Digital Strategist/Senior Digital Strategist  at Paschal Roth Public Affairs, Inc. via (Political Job Hunt @PolJobHunt) https://t.co/zxcvrIr91G"
+2021-10-27 18:13:37+00:00,1453424662843645956,Nunes Ordered to Disclose How He’s Paying for Lawsuit https://t.co/W1wNApyapb via @politicalwire
+2021-10-27 17:37:37+00:00,1453415600835923968,"Sen. Tom Cotton to Merrick Garland: ""Thank god, you’re not on the Supreme Court. You should resign in disgrace, Judge.” https://t.co/w2KZ8AHfIm via @politicalwire"
+2021-10-27 17:36:35+00:00,1453415344329183233,John Eastman Returns to Defending His Memo https://t.co/6DLRMklf3b via @politicalwire
+2021-10-27 17:36:17+00:00,1453415265203535876,It’s Time to Break Up Facebook https://t.co/X8YuWK9Mgg via @politicalwire
+2021-10-27 15:55:40+00:00,1453389945847042048,Iran to Return to Nuclear Deal Talks https://t.co/Ln2z8cDEFv via @politicalwire
+2021-10-27 15:28:55+00:00,1453383215880810500,Cigarette Sales Rose for First Time in 20 Years https://t.co/PVgskAUKHu via @politicalwire
+2021-10-27 15:25:51+00:00,1453382440488144901,Meghan McCain Breaks with Lindsey Graham https://t.co/lG2MqeA2eT via @politicalwire
+2021-10-27 15:07:42+00:00,1453377876221435910,Murphy Maintains His Lead In New Jersey https://t.co/37eaDbjeWG via @politicalwire
+2021-10-27 15:02:22+00:00,1453376531720462336,Kristof Confirms Bid for Oregon Governor https://t.co/X2xsdcCPbk via @politicalwire
+2021-10-27 14:43:55+00:00,1453371891729719298,Trump Endorses Bolsonaro In Brazil https://t.co/SmOEqjMgPh via @politicalwire
+2021-10-27 14:43:38+00:00,1453371820355239948,A Reality Check on ‘Defund the Police’ https://t.co/MvL1xEQcXg via @politicalwire
+2021-10-27 14:33:40+00:00,1453369309317812231,Manchin Says Deal Possible Today https://t.co/eQ8slAG9kj via @politicalwire

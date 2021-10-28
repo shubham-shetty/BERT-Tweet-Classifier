@@ -1,0 +1,31 @@
+Datetime,Tweet Id,Text
+2021-10-27 19:52:10+00:00,1453449464585273348,"It wasn't that long ago when it would've been a big deal for members of the Senate Judiciary Committee to call for an attorney general's resignation.
+
+But with the routinization of performative tantrums, now it's just a typical Wednesday. https://t.co/jUR1BSiOwY"
+2021-10-26 13:51:45+00:00,1452996374606356486,"Don't just blame Florida Surgeon General Joseph Lapado for his ridiculous antics.
+
+Spare some blame for the governor who chose him for the job – not despite the doctor's weird ideas, but because of the doctor's weird ideas. https://t.co/AOKqqRPaUv"
+2021-10-25 18:43:11+00:00,1452707327006724097,"As DeSantis sees it, educators who take COVID seriously should be punished, and first responders to who failed to take COVID seriously should be rewarded.
+
+That's ... not smart. https://t.co/BSC8xYB5jN"
+2021-10-25 13:44:38+00:00,1452632194132885507,Trying to think of a defense for Republicans re-embracing Steve Wynn's campaign contributions. Nothing comes to mind. https://t.co/w5PRTtx7Oz
+2021-10-22 21:02:10+00:00,1451655141581545473,"In April, several GOP doctors in Congress starred in a relatively sensible video about COVID protections. Six months later, two of them have arrived at very weird points. https://t.co/qKoXEvFDHp"
+2021-10-22 19:51:26+00:00,1451637337717452808,"Polls show most Americans see the Supreme Court as politicized. The Heritage Foundation event featuring Clarence Thomas and Mitch McConnell was a reminder: On this, the public isn't wrong. https://t.co/EkB2KaFvYP"
+2021-10-22 19:30:52+00:00,1451632162323771392,"@hbelam Just a typo, which has now been corrected."
+2021-10-22 19:30:08+00:00,1451631978353156106,"@nickarmour51 Nice catch, Nick. Thanks for the heads-up."
+2021-10-22 19:17:00+00:00,1451628675342942220,"I suspect much of the public doesn't know what a ""ranking member"" is, but Jim Banks pretending to be the top Republican on the Jan. 6 committee is proving to be an amazing story. https://t.co/a68bfgVcbP"
+2021-10-22 14:41:31+00:00,1451559348023476268,"Amy Coney Barrett recently said she doesn't want people to see justices as ""partisan hacks."" I wonder if she saw Mitch McConnell celebrating with Clarence Thomas at the Heritage Foundation yesterday. https://t.co/1wLTmvDAJp"
+2021-10-22 13:29:18+00:00,1451541172451741699,"If I were writing another edition of my book about Republicans becoming a post-policy party (https://t.co/7yPITnc1SV), this paragraph from today's @AP article would be prominently featured. #VAGOV https://t.co/DtiPazhBfg"
+2021-10-22 12:03:55+00:00,1451519685950939138,"Ron DeSantis' handpicked surgeon general has been described as a ""COVID crank."" Dr. Joseph Ladapo seems eager to prove his critics right. https://t.co/bmXEgVl9AJ"
+2021-10-21 23:25:09+00:00,1451328736616452096,".@SenSchumer has been neutral on filibuster reforms, but when it comes to protecting voting rights, I think he offered a subtle-but-important hint that he's inching away from impartiality. https://t.co/78qCO3iMCg"
+2021-10-21 20:49:46+00:00,1451289629945180163,"Congress is trying to get answers about an attack on our democracy. With their vote on holding Bannon in contempt, 202 House Republicans suggested today they're indifferent to those answers. https://t.co/s2hNUNhC1D"
+2021-10-21 20:18:10+00:00,1451281680283602947,"The House voted to hold Steve Bannon in contempt, 229-202. On the one hand, by historical standards, nine House GOP votes is embarrassingly low.
+
+On the other, by 2021 standards, nine is higher than I expected. https://t.co/Or3nTE7quJ"
+2021-10-21 19:39:28+00:00,1451271939327135749,"I may have missed earlier comments, but this CNN report looks like a rare instance in which Gallego suggests a 2024 primary against Sinema is a possibility. https://t.co/BmZOAM1nGe"
+2021-10-21 13:49:57+00:00,1451183980359733253,Don't be surprised if the trouble surrounding the Trump National Golf Club Westchester becomes a real legal headache for the former president. https://t.co/mLPlXwO1wY
+2021-10-21 12:05:00+00:00,1451157569590939651,"Now that Senate Republicans have discredited Joe Manchin's preferred governing model, what is he prepared to replace it with? https://t.co/GPQakshDF2"
+2021-10-20 19:44:46+00:00,1450910884226818057,"Asked last month about his plan to get the Freedom to Vote Act passed, Joe Manchin replied, ""It's to get 10 Republicans.""
+
+Today, the bill got zero Republicans. https://t.co/HBckbx2nIi"
+2021-10-20 17:17:50+00:00,1450873909394423821,"It doesn't generate a lot of headlines, but Dems are confirming judicial nominees at a pace unseen in a half-century. https://t.co/LQJP5F677q"

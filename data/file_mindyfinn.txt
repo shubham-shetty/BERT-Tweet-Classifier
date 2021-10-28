@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-25 00:36:01+00:00,1452433732288356354,"@OliviaTroye @AlexandriaVAPD @AlexandriaVAFD Oh no! I hope your Mom is ok, and I’m so glad she received such great care. 🙏"
+2021-10-20 19:11:04+00:00,1450902405747548162,"I’m encouraged by all of the competitive, politically independent activity lately. People are fed up and not going to take the status quo, and that’s a good thing. Change starts small and then vastly accelerates when the time is right."
+2021-10-20 17:37:13+00:00,1450878785197383689,@sjta_amy Well said.
+2021-10-20 17:36:46+00:00,1450878672186052613,"@LisaDTRice Everyone is entitled to voice their opinion; my opinion is I expect better than casually questioning the legitimacy of past elections, particularly from someone who values democracy and knows how badly Donald Trump's ""stop the steal"" crusade threatens it."
+2021-10-20 14:14:18+00:00,1450827721626595337,"Please stop with this. Elections are not illegitimate or wrongly decided when your candidate loses. Republicans, Democrats, everyone. https://t.co/lN634s3J6C"
+2021-10-18 12:35:40+00:00,1450078122674634753,"This is the image of a true American hero, patriot, and leader. A man who worked his way up from humble beginnings and lived a life of service to the end. He will be sorely missed. https://t.co/9ZMpRB5xrc"
+2021-10-18 02:11:50+00:00,1449921129007697965,This sums up where the conventional wisdom about Trump’s rise went wrong: populist nationalism is more the product of Americans being too comfortable than being left behind. https://t.co/L1H5OwAqOg
+2021-10-17 13:17:57+00:00,1449726374940483600,Talking about America’s problems is a major growth industry. Let’s make action and problem-solving the next growth industry.
+2021-10-15 13:57:26+00:00,1449011536182267910,Overwhelming majority of us want a society where we can agree and disagree without being disagreeable. Overwhelming majority of media and politics business wants a society where we always disagree and hate each other for it. That’s the problem.
+2021-10-14 14:31:30+00:00,1448657722606456845,@cmatthewspolls Exactly.
+2021-10-14 14:01:03+00:00,1448650059273232391,@HotlineJosh There are more new potential voters among the non-college educated.
+2021-10-14 13:59:17+00:00,1448649616983949322,It can hardly get more unAmerican than saying the pledge to the deadly insurrection flag.
+2021-10-14 13:58:11+00:00,1448649339803369476,"Virginia voters have a stark choice: vote Youngkin and welcome insurrectionist flag worship or vote for another term of McAuliffe, who last I checked didn’t incite or affiliate with a violent coup. https://t.co/ev2fwXCkZ8"
+2021-10-13 22:11:57+00:00,1448411212635648009,"@AndrewYang Congrats, man! And thanks for my copy! It’s right on my desk. https://t.co/WYbaHX8Qay"
+2021-10-12 13:53:23+00:00,1447923355345113102,"@LaurenWern I do not equate them but they are examples of Republicans winning decisively in states bluer and more institutionally Democratic than VA, and why Democrats and team McAuliffe should not be resting on their laurels if they intend to win."
+2021-10-12 13:45:15+00:00,1447921306054369294,"McAuliffe has two weeks maybe go find a winning message and bring it home, but nobody should be sleeping on this race."
+2021-10-12 13:32:24+00:00,1447918075391655938,"VA demographics have changed, namely college educated suburbanites have ballooned turning VA blue in presidential elections, but Gubernatorial races are different. See: Govs. Hogan and Baker in deep blue states."
+2021-10-12 13:30:59+00:00,1447917716925554698,"To be clear, I haven't been polling this race specifically but was a senior leader for the McDonnell campaign in '09 when he defeated the Democrat Deeds by 17 pts on a ""Bob's for Jobs"" message after Obama won VA in '08, shocking everyone."
+2021-10-12 13:25:15+00:00,1447916272650530816,"I keep seeing ""demographics"" and the ""suburbs"" as reasons why McAuliffe will prevail in VA, and while I still think he skates by with a 2-3 point win, I wouldn't count on it. Glenn Youngkin's supporters are more motivated, and that matters a lot in odd-year elections."
+2021-10-12 02:05:58+00:00,1447745329403736066,@CheriJacobus Incredible! Such amazing news. I'm so happy for you. Your optimism paid off big time.

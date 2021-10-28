@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-24 13:28:44+00:00,1452265803554951174,Uh. https://t.co/eTiPc7mpzU
+2021-10-23 23:44:47+00:00,1452058450628956160,@maddfitz Punkest mascot in Div 1 football.
+2021-10-23 23:29:22+00:00,1452054573863079939,GO FROGS! https://t.co/m1cHQ7tFPZ
+2021-10-22 01:56:01+00:00,1451366701644361729,The Dune movie is good.
+2021-10-21 14:57:48+00:00,1451201057372078085,"@karenkho Making things and thoughtful gifting of items you no longer need/want are great options, too!"
+2021-10-21 14:54:13+00:00,1451200155374415881,Squid Game as a wildly popular cultural product is a much stronger commentary on capitalism than the narrative contained by Squid Game. https://t.co/034sE0RRjk
+2021-10-19 18:09:29+00:00,1450524517785382912,@byJenAMiller @LachatteFiona Please send good vibes
+2021-10-19 17:30:26+00:00,1450514692661731336,@byJenAMiller @LachatteFiona Already on the list for a pupper here in town…
+2021-10-19 15:15:06+00:00,1450480633101312012,@darth I DON’T WANT TO JINX IT BUT ALSO WOULD LIKE THE UNIVERSE TO KNOW PEOPLE ARE BEHIND THIS
+2021-10-19 15:12:28+00:00,1450479973052059656,@darth there’s a particular nugget I’ve been in touch with the rescue about…
+2021-10-19 15:01:09+00:00,1450477122863177737,@maggieNYT Stares.
+2021-10-19 14:59:26+00:00,1450476691130888208,@tracysefl do you like cheese? https://t.co/kqiVFeEcc5
+2021-10-19 14:58:02+00:00,1450476337479684109,"Please put affirmations out into the universe I don’t want to say too much but I’ve been looking to adopt a little buddy for Exley and God owes me one (jk but come on, God, THIS YEAR HAS BEEN A LOT) … 🙏🏻"
+2021-10-19 14:46:18+00:00,1450473387193683976,@thehilsy @FlavorFlav Lots of reseach winds up being valuable to other newcomers ;)
+2021-10-19 14:30:11+00:00,1450469328831324168,@teleken @FlavorFlav And Happy Birthday to you both!
+2021-10-19 12:56:55+00:00,1450445860442103813,@teleken @FlavorFlav Lol I always say that it doesn’t get easier but I get stronger 😉
+2021-10-18 12:32:51+00:00,1450077414973915142,BONUS JENNIFER CONNELLY CONTENT https://t.co/54FrFkmtW3
+2021-10-17 16:59:27+00:00,1449782117278355457,@dandrezner @profmusgrave @charlie_simpson Honestly they should hire addicts/alcoholics to consult on movies like they do veterans for military realism.
+2021-10-17 16:58:03+00:00,1449781765921464322,@dandrezner @profmusgrave @charlie_simpson It’s the inch of booze that really bugs me tho 🤪 what a waste 😉
+2021-10-17 16:54:15+00:00,1449780808655454214,"@dandrezner @profmusgrave @charlie_simpson They may be trying to say she has a drinking problem but it’s a hamfisted trope to see multiple empties (and not empties!) around. They would be laying in a pile beside chair, maybe? One bottle dropped where you passed out? I dunno YMMV but the cliche irks me."

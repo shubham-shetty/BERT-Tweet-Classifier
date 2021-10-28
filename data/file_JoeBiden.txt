@@ -1,0 +1,57 @@
+Datetime,Tweet Id,Text
+2021-10-28 00:11:03+00:00,1453514612872290304,"Virginia, show up.
+Show up like you did for Barack and me.
+Show up like you did for me and Kamala.
+
+And show up for a proven leader like @TerryMcAuliffe. Vote. https://t.co/fU8Jc1RmYr"
+2021-10-27 20:09:02+00:00,1453453706888982536,"Folks, @KamalaHarris is headed down to Norfolk this Friday to get out the vote with @TerryMcAuliffe. Register now to join them.
+https://t.co/mT9kMgfDFM"
+2021-10-27 15:11:00+00:00,1453378707113009154,"Under my Build Back Better Agenda, no middle-class family will spend more than 7% of their income on child care."
+2021-10-26 23:47:19+00:00,1453146251810181122,"Tune in as I join @TerryMcAuliffe in Arlington to get out the vote.
+
+One week to go, Virginia. Let’s do this. https://t.co/YDyLyUmLyd"
+2021-10-26 21:26:00+00:00,1453110691045552135,"It isn't enough just to invest in our physical infrastructure—we also have to invest in our people. 
+
+That’s what the Build Back Better Agenda does: Invests in child care, combats the climate crisis, and makes us competitive in the 21st century."
+2021-10-26 20:48:00+00:00,1453101128174952453,"The Build Back Better Agenda is about betting on America, believing in America, and believing in the American people.
+https://t.co/1KHD6ZbpHu"
+2021-10-26 19:50:01+00:00,1453086533104320517,"For too long, the backbone of this country—the middle class—has been dealt out. It's time to deal them back in."
+2021-10-26 18:27:03+00:00,1453065653171204099,"The Build Back Better Agenda and the Bipartisan Infrastructure Deal are about competitiveness versus complacency.
+https://t.co/J2ORJsyZti"
+2021-10-25 23:15:02+00:00,1452775742471872524,"Folks, @TerryMcAuliffe has been here before, he knows what to do, and he knows how to deliver results for Virginia. 
+
+Join us for a campaign rally in Arlington tomorrow night. https://t.co/ZYbRaFa40N"
+2021-10-25 15:59:00+00:00,1452666011350614020,At least 55 corporations in America didn't pay a single penny in federal income tax last year. That’s got to change—and my Build Back Better Agenda will get it done.
+2021-10-24 23:50:09+00:00,1452422191958695945,"To make good on the full promise of America, we have to protect the fundamental and sacred right to vote. https://t.co/iExJiKeKyV"
+2021-10-24 21:27:00+00:00,1452386165416472578,"In just nine months, we have nominated more Black women to the federal circuit courts and more public defenders to the bench than any administration in all of American history. 
+
+And we’re just getting started."
+2021-10-24 15:13:03+00:00,1452292057930911751,"The last four years, every month was infrastructure month. But nothing happened. 
+
+We can't afford to sit while other countries pass us by.
+https://t.co/flOouuGsLU"
+2021-10-23 20:23:00+00:00,1452007673067606018,"The struggle for our democracy is no longer just about who gets to vote. It’s about who counts the votes—and whether they should count at all. 
+
+Jim Crow is alive and well in the 21st century.
+https://t.co/ErmdUltVfa"
+2021-10-23 15:26:00+00:00,1451932930222305280,"When I ran for president, I resolved to bring Scranton values to bear.
+
+We’re going to build the economy from the ground up and the middle out, not from the top down.
+https://t.co/dAs96r22fc"
+2021-10-23 00:28:00+00:00,1451706940736819206,"Having a broken spirit is no different than having a broken arm.
+https://t.co/VSmOQtQ3RX"
+2021-10-22 19:10:01+00:00,1451626914570031107,"Universal pre-K for 3- and 4-year-olds is not just an investment in education, it’s an investment in the future of America. 
+
+We’re going to get it done with the Build Back Better Agenda.
+https://t.co/FR3mzzbb4A"
+2021-10-22 17:11:05+00:00,1451596987644665856,"Climate change is an existential threat to humanity.
+
+That’s why I’m making a commitment to get to net-zero emissions on electric power by 2035 and net-zero emissions across the board by 2050 or before."
+2021-10-22 15:11:01+00:00,1451566771245391892,"It’s time corporate America and the super-wealthy start paying their fair share.
+https://t.co/rjErYTQKqk"
+2021-10-22 03:16:00+00:00,1451386830994255902,"I ran for president for three reasons:
+To restore the soul and decency of our country. 
+To rebuild our economy from the bottom up and the middle out. 
+And to help unite our country.
+
+We’re on the right track—but there’s still work to be done."

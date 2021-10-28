@@ -1,0 +1,21 @@
+Datetime,Tweet Id,Text
+2021-10-27 18:13:44+00:00,1453424693306802179,@ranimolla Cc @ggreenwald
+2021-10-27 16:57:53+00:00,1453405601480986636,@MazMHussain Only one way to find out
+2021-10-27 14:05:44+00:00,1453362280167526406,@manubarem um why?
+2021-10-27 13:24:34+00:00,1453351920526151680,Talked to @maxlinsky for @longform https://t.co/hPenpfB9rx
+2021-10-27 13:14:19+00:00,1453349342518075393,@manubarem https://t.co/SRZLEZAWWM
+2021-10-27 13:01:36+00:00,1453346140389265408,Sorry @fmanjoo didn't make it past that
+2021-10-27 12:55:35+00:00,1453344627638026244,https://t.co/o9gosDcrqP
+2021-10-27 01:20:25+00:00,1453169683771891712,"@annia @dellcam Haugen told me she's eager to make it happen, but as you say, it hasn't. I also haven't seen anything in Spanish."
+2021-10-27 00:47:38+00:00,1453161430379814913,"@swodinsky Haugen's PR firm, Bryson Gillette, sent the invites"
+2021-10-26 14:30:08+00:00,1453006033471819776,"Checking in on one of the great people of the internet, @KenLayne https://t.co/2OR5WDe1fD"
+2021-10-25 21:19:44+00:00,1452746724498280449,@tibor @AlecMacGillis @b_obermayer @laloeffelstiel Wahr!
+2021-10-25 20:10:09+00:00,1452729214436888576,"Thoughtful ⁦@bhatiap⁩ piece on Ozy and her time there, including her encounter with ""the Silicon Valley version of a child soldier"" https://t.co/0L5FAxeqGc"
+2021-10-25 17:05:49+00:00,1452682822167240709,A wonderful coda to recent Cat Person Twitter  https://t.co/yX4WW2RZZ2
+2021-10-25 16:00:04+00:00,1452666278364200965,"@mathewi The two groups are American and non-English-speaking European, so they fell in the middle."
+2021-10-25 15:47:17+00:00,1452663060846481413,"It is remarkable how these giant companies (eg @jodikantor's Amazon reporting yesterday, and this on Facebook) are replicating the worst features of government bureaucracy, minus any kind of accountability https://t.co/JnUtb1VzIe"
+2021-10-25 03:18:04+00:00,1452474513309020160,@ishaantharoor Would read that
+2021-10-25 00:05:30+00:00,1452426053004275717,Inside the Big Facebook Leak https://t.co/AcdATTDVCT
+2021-10-24 23:41:15+00:00,1452419948903604229,Amazon's internal systems sound like a nightmarish version of the DMV https://t.co/emYd8p1UI5
+2021-10-24 15:16:06+00:00,1452292824804864011,"""All those named in the actions have denied any involvement in the theft of Mr. Azima’s records, and have insisted that his documents were found unexpectedly on the internet after unknown hackers released them there."" https://t.co/gKFo6133C9"
+2021-10-23 18:53:47+00:00,1451985220312387591,@GustavoArellano @8BitPatty Pls write about crypto next

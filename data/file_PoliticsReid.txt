@@ -1,0 +1,42 @@
+Datetime,Tweet Id,Text
+2021-10-27 23:08:41+00:00,1453498916578676739,"Wow, huge news. Polls show Hochul leading a Dem primary now, but hard to see a stronger challenger than James. https://t.co/jM4xoT6GWQ"
+2021-10-27 20:56:46+00:00,1453465720575115266,Columbia headquartered just outside of Portland https://t.co/Ckj70vz8OG
+2021-10-27 17:51:22+00:00,1453419063569436686,"NJ GOV poll (Monmouth, trend from Sept):
+Gov. Phil Murphy 50 (-1)
+Jack Ciattarelli 39 (+1)
+
+Job approvals:
+Murphy 52 app / 39 dis
+Biden 43 / 49 (!)
+https://t.co/6FSnNJlDjF"
+2021-10-27 16:50:05+00:00,1453403639641526277,"My apologies, thanks for the correx. https://t.co/JFZfivgJWv"
+2021-10-27 16:34:03+00:00,1453399605731803138,"BUFFALO MAYOR poll (Emerson/WIVB TV, trend from Aug):
+Byron Brown (write-in) 54% (+4)
+India Walton (D) 36 (-4)
+
+Important note: Poll included Brown on the ballot test, even though he won’t be on the ballot itself. https://t.co/fD8AJmPdfQ"
+2021-10-27 14:55:03+00:00,1453374690072875009,"Ex-NYT columnist Nick Kristof makes OR GOV bid official, faces a crowded Dem primary (h/t @evansiegfried) https://t.co/S49oH1iDZb"
+2021-10-27 14:22:16+00:00,1453366439549751297,"@DougHeye It 100% was not, Mr. Bone Marrow."
+2021-10-27 13:13:29+00:00,1453349133029416960,Georgia redistricting will target districts held by either Rep. Carolyn Bourdeaux or Lucy McBath — and it could force them to compete for the same seat - https://t.co/5bYGBJAatM
+2021-10-27 13:04:25+00:00,1453346851340627977,"Alternative tweet: Who wants to read 1,500 words on beverage excise taxes?!? No really, it’s more interesting than you think https://t.co/Qvsvgatx1Z"
+2021-10-27 13:03:58+00:00,1453346738081763329,"The next big battle between spirits producers and beer producers is kicking off over excise taxes on ready-to-drink cocktails, the fastest-growing segment of the adult beverage market - https://t.co/Qvsvgatx1Z"
+2021-10-27 13:01:30+00:00,1453346114577604611,"Chicago has ordered 100,000 kid-sized #COVID19 doses next week - https://t.co/b5zSCb1MD6"
+2021-10-27 13:00:07+00:00,1453345769327636481,"@normative Missed that one, good catch. Verily."
+2021-10-27 12:57:07+00:00,1453345013816074242,"Kansas City will put in a bid to host the next Republican convention (I’m old enough to remember the last time the RNC met in KC, and how @DougHeye demolished my expense report) - https://t.co/KLM6z9BHn9"
+2021-10-27 12:54:28+00:00,1453344347303419911,"- Confessions of Nat Turner
+- Cider House Rules
+- Lots of books about teen pregnancy
+- Lots of books about abortion
+- Lots of books about being gay
+- Several Ibram X. Kendi books
+- Between the World and Me
+- The Handmaid’s Tale
+
+Full list: https://t.co/QBCNhV2MFV"
+2021-10-27 12:49:42+00:00,1453343144418975755,"The chair of the Texas House Committee on General Investigating is launching an investigation into school library books. He’s got a 16-page book list he wants to know about, including… (1/2)
+https://t.co/e0YTBrZiQS"
+2021-10-27 12:43:04+00:00,1453341477724168198,Denver City Council will pay $400 bonuses to city staff who met #COVID19 vaccination deadline - https://t.co/QBK8t15i4L
+2021-10-27 12:40:19+00:00,1453340785747841024,Seattle home prices are up 24% over last year … and that’s a *cooling* market - https://t.co/UqQ1ovjVy2
+2021-10-27 12:28:03+00:00,1453337696198447104,CA Gov. Gavin Newsom headed to UN’s Glasgow climate summit - https://t.co/0sKNnux1DR
+2021-10-27 12:24:09+00:00,1453336715578413064,I should probably take the day off for this one https://t.co/7wobA2ANd2
+2021-10-26 18:24:54+00:00,1453065115310428167,WA Sec/State @KimWyman12 will resign Nov. 19 to take over election security at Cybersecurity and Infrastructure Security Agency in Biden admin - https://t.co/1YhAJ5Vu7b

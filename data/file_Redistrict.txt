@@ -1,0 +1,54 @@
+Datetime,Tweet Id,Text
+2021-10-27 20:16:49+00:00,1453455666874572801,"Realistically, I think LA still has enough Black population for two effective districts (down from three in past decades), but Compton/Carson would need to be moved out of #CA44 to bolster #CA37 and #CA43 (as shown below). We'll see what the commission decides. https://t.co/3vSLvQVuqv"
+2021-10-27 16:16:03+00:00,1453395074461716491,@PhilArballo False: this map is not a proposal. It’s a starting point towards a draft and will change.
+2021-10-27 15:10:27+00:00,1453378566142504963,"In this scenario, if Waters were to move into Bass's open #CA37 to the north and Barragan were to run and win in #CA44 to the south, it would leave SoCal with only one Black member of Congress. I can't imagine that's going to go over well w/ the Black community in LA."
+2021-10-27 14:59:52+00:00,1453375902985998336,"Which LA Dem seat would be eliminated in this visualization? To my eye it's Rep. Maxine Waters's (D) #CA43, which would be absorbed by Rep. Karen Bass's (D) open #CA37 to the north and Rep. Nanette Barragan's (D) #CA44 to the south. 
+
+I'm thinking this is bound to change. https://t.co/iPGgI4eWeV"
+2021-10-27 14:36:27+00:00,1453370010437660674,"Disclaimer: this isn't even an official draft and it's going to change a lot in the months ahead, depending on public testimony.
+
+That said, my guess is that anything like this map would perform pretty well for Rs in 2022, but would have upside for Ds later in the decade."
+2021-10-27 14:31:15+00:00,1453368701647040517,"Notable shifts in this early ""visualization"" (South):
+
+#CA25 Garcia (R) - Biden +10 to +12
+#CA36 Ruiz (D) - Biden +14 to +8
+#CA39 Kim (R) - Biden +10 to +8
+#CA45 Porter (D) - Biden +11 to +15
+#CA48 Steel (R) - Biden +2 to Trump +1
+#CA50 Issa (R) - Trump +8 to Biden +6"
+2021-10-27 14:31:15+00:00,1453368700338331654,"Notable shifts in this early ""visualization"" (North):
+
+#CA01 LaMalfa (R) - Trump +15 to +6
+#CA04 McClintock (R) - Trump +10 to +8
+#CA07 Bera (D) - Biden +14 to +4
+#CA10 Harder (D) - Biden +3 to Trump +1
+#CA21 Valadao (R) - Biden +11 to +9
+#CA22 Nunes (R) - Trump +5 to Biden +3"
+2021-10-27 14:31:14+00:00,1453368698098622471,"First read: this ""starting point"" map for the CA commission is decent for Rs. It eliminates a Dem seat in LA County (as expected) and imperils Harder (D) in #CA10, while leaving all incumbent 11 Rs w/ a path to victory (though Nunes &amp; esp. Issa would face much tougher races). https://t.co/dK661YHE6J"
+2021-10-27 13:20:40+00:00,1453350939293896708,A must-have for any House aficionado... https://t.co/6D9dNjXFrr
+2021-10-27 00:00:56+00:00,1453149677772226562,"Early vote data is a totally useless indicator of what the ultimate VA electorate will look like next week.
+
+[checks early vote numbers anyway out of boredom]"
+2021-10-26 20:10:23+00:00,1453091661345665030,"We'll get firmer numbers soon, but if this map were adopted (and it's not even an official draft yet)...
+
+#CA22 Devin Nunes (R) - Trump +5 to Biden +3 (?)
+#CA10 Josh Harder (D) - Biden +3 to Trump +1 (?)
+#CA25 Mike Garcia (R) - Biden +10 to Biden +12
+
+More to come..."
+2021-10-26 19:48:44+00:00,1453086210872774662,"Yeah, it's going to take me a few minutes to unpack this visualization (which is sure to change a lot en route to a formal draft). https://t.co/Si4r7TAIsU"
+2021-10-26 17:00:18+00:00,1453043822401925124,@ChicoDelainky @daveweigel Lol what? Try finding a single thing I said about the CA recall prior to election night...I didn't even follow the race.
+2021-10-26 16:55:36+00:00,1453042640631521283,@daveweigel Lol I was mocking my repliers
+2021-10-26 16:48:04+00:00,1453040746358087680,"Premature tweet, Dave. The election hasn't happened yet. https://t.co/0BWFea6f68"
+2021-10-26 15:14:47+00:00,1453017268443615239,"We're now up to six states that have completed new congressional maps, with 38 left to go. Keep tabs on @CookPolitical's new ratings: https://t.co/dUuIJ3Chn5? https://t.co/xCkdqRmsFQ"
+2021-10-26 14:51:02+00:00,1453011294433447951,"Under the new TX lines, @CookPolitical rates 23 seats as Solid R and 13 seats as Solid D. The only other two:
+
+#TX15 OPEN (Gonzalez) (D) - Lean R
+#TX23 Tony Gonzales (R) - Likely R
+
+Full analysis: https://t.co/XmAzZgH4nU https://t.co/hwyxqPqbiJ"
+2021-10-26 13:08:03+00:00,1452985375832649734,"New Texas maps, 2022 House ratings &amp; analysis are live for @CookPolitical subscribers (GIF credit: @Alflinn). https://t.co/XmAzZgH4nU https://t.co/QNsL52BZzl"
+2021-10-26 11:38:56+00:00,1452962947635032065,"More likely scenario: Dems create a GOP vote sink for Garbarino and a whole bunch of Dems run for a neighboring, heavily Dem open #NY01 that goes out to the Hamptons. https://t.co/MT2Wy4abia"
+2021-10-25 22:18:17+00:00,1452761457150631940,"Hearing quite a bit of “if only Dems gerrymander brutally enough, it might compel Republicans to get on board with reform legislation.”
+
+Um, no. Rs still have the slightly better end of this deal. The biggest net effect: fewer red state Ds/blue state Rs and more polarization."

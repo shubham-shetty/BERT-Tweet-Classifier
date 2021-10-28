@@ -1,0 +1,43 @@
+Datetime,Tweet Id,Text
+2021-10-27 21:14:01+00:00,1453470059968483331,We must defend and strengthen the right that unlocks all other rights: The right to vote.
+2021-10-27 14:46:02+00:00,1453372420426027016,"Virginians are looking for a governor who will protect the progress the commonwealth has made in recent years—@TerryMcAuliffe is the candidate who will do just that.
+
+Sign up now to join me and Terry in Norfolk this Friday:
+https://t.co/LwAEcNRomZ"
+2021-10-27 01:47:00+00:00,1453176372504014848,"So much is at stake in Virginia, including the constitutional right to access abortion. As governor, @TerryMcAuliffe will fight to defend that right. https://t.co/EkGF268pic"
+2021-10-26 23:47:55+00:00,1453146405812514817,"With one week until Election Day, @JoeBiden is back in Virginia with @TerryMcAuliffe to rally voters and get out the vote in Arlington. Tune in now. https://t.co/qwpHo1dtJT"
+2021-10-26 18:17:02+00:00,1453063133220806659,"With Election Day fast approaching, @JoeBiden is returning to Arlington tonight with @TerryMcAuliffe to rally voters across the commonwealth. 
+
+Let’s keep moving Virginia forward. RSVP now. 
+https://t.co/zSYy961pqh"
+2021-10-26 14:32:00+00:00,1453006501920923648,"The Supreme Court’s decision to gut the Voting Rights Act in 2013 unlocked the wave of anti-voter legislation we are seeing across the country today. 
+
+We should not have to keep fighting so hard to secure our fundamental rights. But fight we must. And fight we will. https://t.co/9Ftt83V9Pj"
+2021-10-25 15:24:00+00:00,1452657202163027976,It’s time for big corporations and the wealthy to pay their fair share. https://t.co/alIKorlctd
+2021-10-25 01:25:00+00:00,1452446060618686464,The Biden-Harris administration has created more jobs in our first eight months than any other administration in American history.
+2021-10-23 23:01:00+00:00,1452047434033553414,Our Build Back Better Agenda will cut the costs of child care for America’s families—no middle-income family will pay more than 7% of their income for child care.
+2021-10-23 21:01:00+00:00,1452017235833278465,"Climate change is an existential threat to humanity. 
+
+The Build Back Better Agenda will make the biggest climate investments in our country’s history to fight this crisis head-on."
+2021-10-23 18:26:27+00:00,1451978340236238852,"Virginia, there are now less than two weeks until Election Day. Tune in for a get out the vote event with @BarackObama and @TerryMcAuliffe in Richmond. https://t.co/hxYqVtWOgA"
+2021-10-23 17:20:01+00:00,1451961621820149767,"Together, we will build our country back better than before."
+2021-10-23 01:50:00+00:00,1451727576209166340,"Investing in our children’s education at an early age is key to building a better future for all of us. 
+
+That’s why the Build Back Better Agenda will make universal pre-K for three- and four-year-olds a reality. https://t.co/eFzZNH1Vtj"
+2021-10-22 21:09:03+00:00,1451656871190859780,"Virginia, @TerryMcAuliffe is running for governor to build a strong economy that creates good-paying jobs and invests in education and workers, and to protect the progress we’ve made.
+
+Let’s elect Terry and Democrats up and down the ballot. https://t.co/FoYtjhIi5R"
+2021-10-22 14:50:05+00:00,1451561501203079169,Virginia voters are fired up and ready to vote for @TerryMcAuliffe and Democrats up and down the ballot. Make your voice heard at the ballot box to keep Virginia and our country moving forward. https://t.co/JgOjxjY3JP
+2021-10-21 21:18:00+00:00,1451296737688231941,"Our Build Back Better Agenda will cut the cost of child care by more than half for most American families. 
+
+We need to give people everywhere a meaningful opportunity to both work and care for their families. 
+https://t.co/GILDOAvGsX"
+2021-10-21 19:00:21+00:00,1451262095480299529,"As President @JoeBiden says, we can’t afford to sit while other countries pass us by. 
+
+Our Build Back Better Agenda and Bipartisan Infrastructure Deal will breathe new life into our workforce. https://t.co/j73yJrXftz"
+2021-10-20 20:48:01+00:00,1450926802973700096,Get vaccinated. It's free and it can save your life.
+2021-10-20 00:06:01+00:00,1450614243183767553,It’s not right that working families pay higher tax rates than the wealthiest and large corporations. We’ll fight to ensure that the wealthiest and corporations pay their fair share—and build an economy that works for everyone. That’s what the Build Back Better Agenda is about.
+2021-10-19 20:58:00+00:00,1450566929194917890,"Join me in Prince William County this Thursday for a grassroots event with @TerryMcAuliffe as we look to move Virginia towards a brighter future. 
+
+Looking forward to seeing everyone there. Sign up now: 
+https://t.co/N12leHbnDJ"
