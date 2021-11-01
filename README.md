@@ -1,2 +1,2 @@
-# twitter-hate-speech-detection
-This project aims to scrape recent tweets and classify whether they are hate speech.
+# Tweet Scraper
+This project provides a way to scrape tweets based on a query or username using the Tweepy API. This was developed to collect tweets for classifying political tweets as 'MALE' or 'FEMALE' for CS685 coursework.
